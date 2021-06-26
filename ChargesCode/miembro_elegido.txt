@@ -1,0 +1,6 @@
+Miembro elegido: 
+Maria Sanchez
+Cargo: subdirector
+Anio Nacimiento: 1968
+Percel: si
+Cociente Habilidad: 60

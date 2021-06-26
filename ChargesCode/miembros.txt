@@ -1,0 +1,10 @@
+Saul;Lintz;director;30;1971;60;control de robots;no;
+Juan;Lopez;director;30;1980;60;control de robots;si;
+Juan;Lopez;operario;30;1984;60;control de robots;no;
+Maria;Sanchez;subdirector;30;1968;60;medico;si;
+Saul;Lintz;director;30;1981;60;direccion;no;
+Juan;Lopez;operario;30;1979;60;direccion;no;
+Maria;Sanchez;subdirector;30;1993;60;direccion;si;
+Saul;Lintz;director;30;1989;60;logistica;no;
+Juan;Lopez;operario;30;1994;60;LOGISTICA;no;
+Maria;Sanchez;subdirector;30;1990;60;Construccion y mantenimiento;si;
